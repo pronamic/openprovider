@@ -8,7 +8,9 @@ on:
 jobs:
   monitor:
     runs-on: ubuntu-latest
+
     steps:
-      - run: host -v ns1.openprovider.nl
-      - run: host -v ns2.openprovider.be
-      - run: host -v ns1.openprovider.nl
+    - name: Monitor
+      env:
+        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      run: .github/scripts/monitor-nameservers.sh
