@@ -1,0 +1,14 @@
+name: Monitor Openprovider nameservers
+
+on:
+  schedule:
+  - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - run: host -v ns1.openprovider.nl
+      - run: host -v ns2.openprovider.be
+      - run: host -v ns1.openprovider.nl
