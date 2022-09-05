@@ -1,27 +1,27 @@
 Trying "ns3.openprovider.eu"
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 3557
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 57490
 ;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
 
 ;; QUESTION SECTION:
 ;ns3.openprovider.eu.		IN	A
 
 ;; ANSWER SECTION:
-ns3.openprovider.eu.	85935	IN	A	52.56.134.244
+ns3.openprovider.eu.	84308	IN	A	52.56.134.244
 
-Received 53 bytes from 213.46.228.196#53 in 64 ms
+Received 53 bytes from 213.46.228.196#53 in 65 ms
 Trying "ns3.openprovider.eu"
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 40781
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 41265
 ;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
 
 ;; QUESTION SECTION:
 ;ns3.openprovider.eu.		IN	AAAA
 
 ;; ANSWER SECTION:
-ns3.openprovider.eu.	53570	IN	AAAA	2a05:d01c:433:e000:e62c:faa3:9834:41e7
+ns3.openprovider.eu.	5233	IN	AAAA	2a05:d01c:433:e000:e62c:faa3:9834:41e7
 
-Received 65 bytes from 213.46.228.196#53 in 25 ms
+Received 65 bytes from 213.46.228.196#53 in 26 ms
 Trying "ns3.openprovider.eu"
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19613
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 28324
 ;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
 
 ;; QUESTION SECTION:
@@ -30,4 +30,4 @@ Trying "ns3.openprovider.eu"
 ;; AUTHORITY SECTION:
 openprovider.eu.	600	IN	SOA	ns-eu-west-2.openprovider.eu. dns.openprovider.eu. 2022082501 3600 600 604800 1800
 
-Received 90 bytes from 213.46.228.196#53 in 35 ms
+Received 90 bytes from 213.46.228.196#53 in 40 ms
