@@ -10,7 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
     - name: Monitor
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-      run: "${GITHUB_WORKSPACE}/.github/scripts/monitor-nameservers.sh"
+      run: .github/scripts/monitor-nameservers.sh
