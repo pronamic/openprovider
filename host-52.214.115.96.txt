@@ -1,11 +1,11 @@
 Trying "96.115.214.52.in-addr.arpa"
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 62559
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36558
 ;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
 
 ;; QUESTION SECTION:
 ;96.115.214.52.in-addr.arpa.	IN	PTR
 
 ;; ANSWER SECTION:
-96.115.214.52.in-addr.arpa. 300	IN	PTR	ec2-52-214-115-96.eu-west-1.compute.amazonaws.com.
+96.115.214.52.in-addr.arpa. 299	IN	PTR	ec2-52-214-115-96.eu-west-1.compute.amazonaws.com.
 
 Received 107 bytes from 127.0.0.53#53 in 104 ms
