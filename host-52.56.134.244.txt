@@ -1,5 +1,5 @@
 Trying "244.134.56.52.in-addr.arpa"
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 22549
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 30048
 ;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
 
 ;; QUESTION SECTION:
