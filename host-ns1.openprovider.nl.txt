@@ -1,30 +1,30 @@
 Trying "ns1.openprovider.nl"
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 50515
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 40718
 ;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
 
 ;; QUESTION SECTION:
 ;ns1.openprovider.nl.		IN	A
 
 ;; ANSWER SECTION:
-ns1.openprovider.nl.	1800	IN	A	52.57.114.204
+ns1.openprovider.nl.	1393	IN	A	52.57.114.204
 
-Received 53 bytes from 127.0.0.53#53 in 348 ms
+Received 53 bytes from 127.0.0.53#53 in 16 ms
 Trying "ns1.openprovider.nl"
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21931
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 8193
 ;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
 
 ;; QUESTION SECTION:
 ;ns1.openprovider.nl.		IN	AAAA
 
 ;; ANSWER SECTION:
-ns1.openprovider.nl.	1799	IN	AAAA	2a05:d014:f80:6e00:bde7:af96:9434:75d5
+ns1.openprovider.nl.	1800	IN	AAAA	2a05:d014:f80:6e00:bde7:af96:9434:75d5
 
-Received 65 bytes from 127.0.0.53#53 in 160 ms
+Received 65 bytes from 127.0.0.53#53 in 72 ms
 Trying "ns1.openprovider.nl"
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 12118
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 52886
 ;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
 
 ;; QUESTION SECTION:
 ;ns1.openprovider.nl.		IN	MX
 
-Received 37 bytes from 127.0.0.53#53 in 148 ms
+Received 37 bytes from 127.0.0.53#53 in 80 ms
