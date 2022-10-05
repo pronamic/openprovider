@@ -1,16 +1,16 @@
 Trying "ns2.openprovider.be"
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 62975
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 62294
 ;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
 
 ;; QUESTION SECTION:
 ;ns2.openprovider.be.		IN	A
 
 ;; ANSWER SECTION:
-ns2.openprovider.be.	900	IN	A	162.159.27.96
+ns2.openprovider.be.	494	IN	A	162.159.27.96
 
-Received 53 bytes from 127.0.0.53#53 in 176 ms
+Received 53 bytes from 127.0.0.53#53 in 4 ms
 Trying "ns2.openprovider.be"
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 35703
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 33627
 ;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
 
 ;; QUESTION SECTION:
@@ -19,12 +19,12 @@ Trying "ns2.openprovider.be"
 ;; ANSWER SECTION:
 ns2.openprovider.be.	900	IN	AAAA	2400:cb00:2049:1::a29f:1b60
 
-Received 65 bytes from 127.0.0.53#53 in 264 ms
+Received 65 bytes from 127.0.0.53#53 in 80 ms
 Trying "ns2.openprovider.be"
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 33058
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 40715
 ;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
 
 ;; QUESTION SECTION:
 ;ns2.openprovider.be.		IN	MX
 
-Received 37 bytes from 127.0.0.53#53 in 276 ms
+Received 37 bytes from 127.0.0.53#53 in 96 ms
