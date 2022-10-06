@@ -7,11 +7,19 @@ In this repository we keep track of the collaboration between Pronamic and Openp
 
 ## Nameservers
 
+| Nameserver            | IP              | IPv6                          | Status |
+| --------------------- | --------------- | ----------------------------- | ------ |
+| `ns1.openprovider.nl` | `162.159.26.10` | `2400:cb00:2049:1::a29f:1a0a` | ![](https://img.shields.io/uptimerobot/status/m792614937-8d69d4f9c7f518899642f6a1) |
+| `ns2.openprovider.be` | `162.159.27.96` | `2400:cb00:2049:1::a29f:1b60` | ![](https://img.shields.io/uptimerobot/status/m792614945-4f0752e7cd445950b2594ae5) |
+| `ns3.openprovider.eu` | `162.159.48.89` | `2400:cb00:2049:1::a29f:3059` | ![](https://img.shields.io/uptimerobot/status/m792614950-06af7777e0e46f0eef813265) |
+
+## Nameservers ([before October 1, 2022](https://github.com/pronamic/openprovider/commit/a6c9206dedf21bef14a06db2e5a8a3ab2384b621))
+
 | Nameserver            | IP              | IPv6                                     | Status |
 | --------------------- | --------------- | ---------------------------------------- | ------ |
-| `ns1.openprovider.nl` | `52.57.114.204` | `2a05:d014:f80:6e00:bde7:af96:9434:75d5` | ![](https://img.shields.io/uptimerobot/status/m792614937-8d69d4f9c7f518899642f6a1) |
-| `ns2.openprovider.be` | `52.214.115.96` | `2a05:d018:61d:bd00:21bc:c938:d548:dab1` | ![](https://img.shields.io/uptimerobot/status/m792614945-4f0752e7cd445950b2594ae5) |
-| `ns3.openprovider.eu` | `52.56.134.244` | `2a05:d01c:433:e000:e62c:faa3:9834:41e7` | ![](https://img.shields.io/uptimerobot/status/m792614950-06af7777e0e46f0eef813265) |
+| `ns1.openprovider.nl` | ~`52.57.114.204`~ | ~`2a05:d014:f80:6e00:bde7:af96:9434:75d5`~ | ![](https://img.shields.io/uptimerobot/status/m792614937-8d69d4f9c7f518899642f6a1) |
+| `ns2.openprovider.be` | ~`52.214.115.96`~ | ~`2a05:d018:61d:bd00:21bc:c938:d548:dab1`~ | ![](https://img.shields.io/uptimerobot/status/m792614945-4f0752e7cd445950b2594ae5) |
+| `ns3.openprovider.eu` | ~`52.56.134.244`~ | ~`2a05:d01c:433:e000:e62c:faa3:9834:41e7`~ | ![](https://img.shields.io/uptimerobot/status/m792614950-06af7777e0e46f0eef813265) |
 
 ## Interruptions
 
