@@ -17,9 +17,9 @@ In this repository we keep track of the collaboration between Pronamic and Openp
 
 | Nameserver            | IP              | IPv6                          | Status |
 | --------------------- | --------------- | ----------------------------- | ------ |
-| `ns-eu-west-1.openprovider.eu`    | `52.19.66.106`  | | |
-| `ns-eu-central-1.openprovider.eu` | `18.194.228.62` | | |
-| `ns-eu-west-2.openprovider.eu`.   | `52.56.180.255` | | |
+| `ns-eu-west-1.openprovider.eu`    | `52.19.66.106`  | `2a05:d018:61d:bd00:c886:556d:56a4:db8b` | |
+| `ns-eu-central-1.openprovider.eu` | `18.194.228.62` | `2a05:d014:f80:6e00:b20f:a574:7f25:31ad` | |
+| `ns-eu-west-2.openprovider.eu`    | `52.56.180.255` | `2a05:d01c:433:e000:9d6a:209f:a4ad:3c7` | |
 
 ## Nameservers ([before October 1, 2022](https://github.com/pronamic/openprovider/commit/a6c9206dedf21bef14a06db2e5a8a3ab2384b621))
 
