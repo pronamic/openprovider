@@ -5,7 +5,7 @@ In this repository we keep track of the collaboration between Pronamic and Openp
 - [Pronamic Openprovider status page by UptimeRobot](https://stats.uptimerobot.com/M6GEWu2pXB)
 - https://twitter.com/opnotifications
 
-## Nameservers
+## Nameservers (via Cloudflare)
 
 | Nameserver            | IP              | IPv6                          | Status |
 | --------------------- | --------------- | ----------------------------- | ------ |
