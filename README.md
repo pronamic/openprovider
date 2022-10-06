@@ -21,6 +21,7 @@ In this repository we keep track of the collaboration between Pronamic and Openp
 | `22-07-2022` | https://github.com/pronamic/openprovider/issues/3 |
 | `23-08-2022` | https://github.com/pronamic/openprovider/issues/4 |
 | `04-10-2022` | https://github.com/pronamic/openprovider/issues/8 |
+| `05-10-2022` | https://github.com/pronamic/openprovider/issues/9 |
 
 ## Links
 
