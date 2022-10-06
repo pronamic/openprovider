@@ -2,8 +2,10 @@
 
 In this repository we keep track of the collaboration between Pronamic and Openprovider.
 
-- [Pronamic Openprovider status page by UptimeRobot](https://stats.uptimerobot.com/M6GEWu2pXB)
+- https://announcekit.co/openprovider-production/openprovider-news
+- https://announcekit.co/openprovider-production/openprovider-news/rss.xml
 - https://twitter.com/opnotifications
+- ~[Pronamic Openprovider status page by UptimeRobot](https://stats.uptimerobot.com/M6GEWu2pXB)~
 
 ## Nameservers (_via Cloudflare_)
 
