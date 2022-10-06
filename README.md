@@ -5,13 +5,21 @@ In this repository we keep track of the collaboration between Pronamic and Openp
 - [Pronamic Openprovider status page by UptimeRobot](https://stats.uptimerobot.com/M6GEWu2pXB)
 - https://twitter.com/opnotifications
 
-## Nameservers (via Cloudflare)
+## Nameservers (_via Cloudflare_)
 
 | Nameserver            | IP              | IPv6                          | Status |
 | --------------------- | --------------- | ----------------------------- | ------ |
 | `ns1.openprovider.nl` | `162.159.26.10` | `2400:cb00:2049:1::a29f:1a0a` | |
 | `ns2.openprovider.be` | `162.159.27.96` | `2400:cb00:2049:1::a29f:1b60` | |
 | `ns3.openprovider.eu` | `162.159.48.89` | `2400:cb00:2049:1::a29f:3059` | |
+
+## Nameservers (_via Amazon - unofficial_)
+
+| Nameserver            | IP              | IPv6                          | Status |
+| --------------------- | --------------- | ----------------------------- | ------ |
+| `ns-eu-west-1.openprovider.eu`    | `52.19.66.106`  | | |
+| `ns-eu-central-1.openprovider.eu` | `18.194.228.62` | | |
+| `ns-eu-west-2.openprovider.eu`.   | `52.56.180.255` | | |
 
 ## Nameservers ([before October 1, 2022](https://github.com/pronamic/openprovider/commit/a6c9206dedf21bef14a06db2e5a8a3ab2384b621))
 
