@@ -33,13 +33,14 @@ In this repository we keep track of the collaboration between Pronamic and Openp
 
 ## Interruptions
 
-| Date         | Issue                                             |
-| ------------ | ------------------------------------------------- |
-| `08-07-2022` | https://github.com/pronamic/openprovider/issues/2 |
-| `22-07-2022` | https://github.com/pronamic/openprovider/issues/3 |
-| `23-08-2022` | https://github.com/pronamic/openprovider/issues/4 |
-| `04-10-2022` | https://github.com/pronamic/openprovider/issues/8 |
-| `05-10-2022` | https://github.com/pronamic/openprovider/issues/9 |
+| Date         | Issue                                              |
+| ------------ | -------------------------------------------------- |
+| `08-07-2022` | https://github.com/pronamic/openprovider/issues/2  |
+| `22-07-2022` | https://github.com/pronamic/openprovider/issues/3  |
+| `23-08-2022` | https://github.com/pronamic/openprovider/issues/4  |
+| `04-10-2022` | https://github.com/pronamic/openprovider/issues/8  |
+| `05-10-2022` | https://github.com/pronamic/openprovider/issues/9  |
+| `07-10-2022` | https://github.com/pronamic/openprovider/issues/10 |
 
 ## Contact Openprovider Support
 
