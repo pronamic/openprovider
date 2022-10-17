@@ -41,6 +41,7 @@ In this repository we keep track of the collaboration between Pronamic and Openp
 | `04-10-2022` | https://github.com/pronamic/openprovider/issues/8  |
 | `05-10-2022` | https://github.com/pronamic/openprovider/issues/9  |
 | `07-10-2022` | https://github.com/pronamic/openprovider/issues/10 |
+| `16-10-2022` | https://github.com/pronamic/openprovider/issues/11 |
 
 ## Contact Openprovider Support
 
