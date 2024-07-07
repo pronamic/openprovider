@@ -1,5 +1,5 @@
 Trying "ns1.openprovider.nl"
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 59893
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 61911
 ;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
 
 ;; QUESTION SECTION:
@@ -8,9 +8,9 @@ Trying "ns1.openprovider.nl"
 ;; ANSWER SECTION:
 ns1.openprovider.nl.	900	IN	A	162.159.26.10
 
-Received 53 bytes from 127.0.0.53#53 in 132 ms
+Received 53 bytes from 127.0.0.53#53 in 111 ms
 Trying "ns1.openprovider.nl"
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 25696
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19256
 ;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
 
 ;; QUESTION SECTION:
@@ -19,15 +19,15 @@ Trying "ns1.openprovider.nl"
 ;; ANSWER SECTION:
 ns1.openprovider.nl.	900	IN	AAAA	2400:cb00:2049:1::a29f:1a0a
 
-Received 65 bytes from 127.0.0.53#53 in 88 ms
+Received 65 bytes from 127.0.0.53#53 in 87 ms
 Trying "ns1.openprovider.nl"
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 54141
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 56527
 ;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
 
 ;; QUESTION SECTION:
 ;ns1.openprovider.nl.		IN	MX
 
 ;; AUTHORITY SECTION:
-openprovider.nl.	300	IN	SOA	ns-2004.awsdns-58.co.uk. dns.openprovider.eu. 2024070302 10800 3600 604800 3600
+openprovider.nl.	299	IN	SOA	ns-2004.awsdns-58.co.uk. dns.openprovider.eu. 2024070302 10800 3600 604800 3600
 
-Received 115 bytes from 127.0.0.53#53 in 92 ms
+Received 115 bytes from 127.0.0.53#53 in 95 ms
