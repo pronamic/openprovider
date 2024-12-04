@@ -1,5 +1,5 @@
 Trying "204.114.57.52.in-addr.arpa"
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1609
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 62394
 ;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
 
 ;; QUESTION SECTION:
@@ -8,4 +8,4 @@ Trying "204.114.57.52.in-addr.arpa"
 ;; ANSWER SECTION:
 204.114.57.52.in-addr.arpa. 300	IN	PTR	ec2-52-57-114-204.eu-central-1.compute.amazonaws.com.
 
-Received 110 bytes from 127.0.0.53#53 in 60 ms
+Received 110 bytes from 127.0.0.53#53 in 144 ms
