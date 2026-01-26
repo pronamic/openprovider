@@ -1,5 +1,5 @@
 Trying "96.115.214.52.in-addr.arpa"
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26094
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 697
 ;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
 
 ;; QUESTION SECTION:
@@ -8,4 +8,4 @@ Trying "96.115.214.52.in-addr.arpa"
 ;; ANSWER SECTION:
 96.115.214.52.in-addr.arpa. 300	IN	PTR	ec2-52-214-115-96.eu-west-1.compute.amazonaws.com.
 
-Received 107 bytes from 127.0.0.53#53 in 60 ms
+Received 107 bytes from 127.0.0.53#53 in 12 ms
