@@ -1,27 +1,33 @@
 Trying "ns2.openprovider.be"
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19383
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 55884
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
 
 ;; QUESTION SECTION:
 ;ns2.openprovider.be.		IN	A
 
-Received 37 bytes from 127.0.0.53#53 in 20 ms
+;; ANSWER SECTION:
+ns2.openprovider.be.	900	IN	A	162.159.27.96
+
+Received 53 bytes from 127.0.0.53#53 in 139 ms
 Trying "ns2.openprovider.be"
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 11129
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 32362
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
 
 ;; QUESTION SECTION:
 ;ns2.openprovider.be.		IN	AAAA
 
-Received 37 bytes from 127.0.0.53#53 in 95 ms
+;; ANSWER SECTION:
+ns2.openprovider.be.	900	IN	AAAA	2400:cb00:2049:1::a29f:1b60
+
+Received 65 bytes from 127.0.0.53#53 in 143 ms
 Trying "ns2.openprovider.be"
-;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 29732
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 61848
 ;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
 
 ;; QUESTION SECTION:
 ;ns2.openprovider.be.		IN	MX
 
 ;; AUTHORITY SECTION:
-openprovider.be.	300	IN	SOA	ns-eu-west-2.openprovider.eu. sre.openprovider.nl. 2022122002 3600 600 604800 600
+openprovider.be.	299	IN	SOA	ns-eu-west-2.openprovider.eu. sre.openprovider.nl. 2022122002 3600 600 604800 600
 
-Received 120 bytes from 127.0.0.53#53 in 97 ms
+Received 120 bytes from 127.0.0.53#53 in 319 ms
